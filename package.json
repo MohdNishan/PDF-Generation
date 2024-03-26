@@ -1,0 +1,15 @@
+{
+  "name": "pdf-generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devstart": "nodemon pdf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.15.0"
+  }
+}

@@ -1,0 +1,14 @@
+
+
+{
+    "pdfs":[
+        {"name" : "Naseer","grade" : "Sho dan","degree" : "1'st degree black belt", "date" :"30th april 2024", "place" : "Cochin", "photo": "./photo.jpg" },
+        {"name" : "Nishan","grade" : "Van dan","degree" : "2'nd degree black belt", "date" :"30th april 2024", "place" : "Kannur", "photo": "./photo.jpg" },
+        {"name" : "Farook","grade" : "Van dan","degree" : "2'nd degree black belt", "date" :"30th april 2024", "place" : "Kannur", "photo": "./photo.jpg" },
+        {"name" : "Rahul","grade" : "Van dan","degree" : "2'nd degree black belt", "date" :"30th april 2024", "place" : "Kannur", "photo": "./photo.jpg" },
+        {"name" : "Thriq","grade" : "Van dan","degree" : "2'nd degree black belt", "date" :"30th april 2024", "place" : "Kannur", "photo": "./photo.jpg" },
+        {"name" : "Mohammed","grade" : "Van dan","degree" : "2'nd degree black belt", "date" :"30th april 2024", "place" : "Kannur", "photo": "./photo.jpg" }
+
+        
+    ]
+}
